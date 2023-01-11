@@ -465,6 +465,9 @@ code, pre {
     .footer .socials {
         align-items: center;
     }
+    .alert i {
+        top: 35%;
+    }
 }
 
 /* Mobile */
@@ -484,10 +487,13 @@ code, pre {
     .showcase-form {
         width: 80%;
     }
+    .docs-head h1 {
+        font-size: 30px;
+    }
     .alert {
         border-radius: 5px;
     }
     .alert i {
-        top: 35%;
+        top: 45%;
     }
 }
