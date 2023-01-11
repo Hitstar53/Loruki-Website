@@ -489,6 +489,7 @@ code, pre {
     }
     .alert {
         border-radius: 5px;
+        font-size: 14px;
     }
     .alert i {
         top: 45%;
