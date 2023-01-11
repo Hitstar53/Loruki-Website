@@ -430,7 +430,7 @@ code, pre {
         text-align: center;
     }
     .showcase-form input[type="submit"] {
-        width: 100%;
+        width: 75%;
     }
     .cli .grid > *:first-child {
         grid-column: 1;
@@ -483,6 +483,9 @@ code, pre {
     }
     .showcase-form {
         width: 80%;
+    }
+    .showcase-form input[type="submit"] {
+        width: 100%;
     }
     .docs-head h1 {
         font-size: 3rem;
