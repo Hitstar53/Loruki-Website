@@ -429,9 +429,6 @@ code, pre {
     .showcase-form h2 {
         text-align: center;
     }
-    .showcase-form input[type="submit"] {
-        width: 75%;
-    }
     .cli .grid > *:first-child {
         grid-column: 1;
         grid-row: 1;
