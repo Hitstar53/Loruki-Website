@@ -484,4 +484,10 @@ code, pre {
     .showcase-form {
         width: 80%;
     }
+    .alert {
+        border-radius: 5px;
+    }
+    .alert i {
+        top: 35%;
+    }
 }
