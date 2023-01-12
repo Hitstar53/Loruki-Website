@@ -456,15 +456,6 @@ code, pre {
     .footer .grid {
         gap: 10px;
     }
-    .footer .grid > *:first-child {
-        justify-self: center;
-    }
-    .footer nav {
-        justify-self: center;
-    }
-    .footer .socials {
-        align-items: center;
-    }
 }
 
 /* Mobile */
@@ -495,6 +486,6 @@ code, pre {
         font-size: 14px;
     }
     .alert i {
-        top: 45%;
+        top: 40%;
     }
 }
